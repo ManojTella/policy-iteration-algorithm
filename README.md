@@ -77,14 +77,17 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ## OUTPUT:
 ## Optimal Policy:
 
-![image](https://github.com/Saibandhavi75/policy-iteration-algorithm/assets/94208895/6f7c9235-6d0f-4c13-afd4-f954e65ef57a)
+![image](https://github.com/ManojTella/policy-iteration-algorithm/assets/94883876/f6d957d8-eb5f-4710-b7a5-35ccc42e9cee)
+
 ## Optimal Value Function:
 
-![image](https://github.com/Saibandhavi75/policy-iteration-algorithm/assets/94208895/8cab8bb2-4a76-4bf5-9513-b77aef4de79e)
+![image](https://github.com/ManojTella/policy-iteration-algorithm/assets/94883876/7668df29-cce2-4c16-9c49-bd70fadf852b)
+
 
 ## Success Rate for Optimal Policy:
 
-![image](https://github.com/Saibandhavi75/policy-iteration-algorithm/assets/94208895/7351e6d2-686e-4ba7-8571-1ae0b18565aa)
+![Screenshot 2024-03-08 093646](https://github.com/ManojTella/policy-iteration-algorithm/assets/94883876/72d09d1f-75b0-45e5-b9bb-12eb476e8cdb)
+
 
 
 ## RESULT:
